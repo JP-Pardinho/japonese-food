@@ -44,7 +44,7 @@ a:hover {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    opacity: 1;
+    opacity: 0.5;
     z-index: -1;
   }
 

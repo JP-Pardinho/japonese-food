@@ -1,2 +1,2 @@
 # japonese-food
- Projeto de site de curso
+ Projeto de site que te leva direito para o whatsapp.
